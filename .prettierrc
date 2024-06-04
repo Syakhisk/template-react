@@ -1,0 +1,19 @@
+{
+  "semi": false,
+  "trailingComma": "all",
+
+  "plugins": [
+    "prettier-plugin-tailwindcss",
+    "@trivago/prettier-plugin-sort-imports"
+  ],
+
+  "importOrder": [
+    "^vite",
+    "^react(-dom/(.*))?$",
+    "<THIRD_PARTY_MODULES>",
+    "^@/components/(.*)$",
+    "^[./]"
+  ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
+}

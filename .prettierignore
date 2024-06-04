@@ -1,0 +1,7 @@
+src/shared/components/ui/**/*
+**/*.svg
+
+**/.git
+**/.svn
+**/.hg
+**/node_modules

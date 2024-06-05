@@ -1,3 +1,6 @@
+![image](https://github.com/Syakhisk/template-react/assets/63556086/286b84fb-c632-4b2e-a50c-ef2796932ab7)
+---
+
 # Yet Another Side Project
 
 > Perhaps this project will be different.
